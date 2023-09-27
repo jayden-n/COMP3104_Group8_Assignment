@@ -1,4 +1,4 @@
-# Jayden Nguyen - 101363755
+# Jayden Nguyen - 101363755 - A product-minded Front-end Engineer
 
 Devops? It is like the secret ingredient in a recipe that makes software development run smoothly. DevOps experts use tools like Docker and Jenkins to automate tasks, making releases faster and less prone to errors. They also create a culture where teams are always improving and adapting. In today's tech world, mastering DevOps isn't just important; it's your path to becoming a hero in the world of software development. 🚀
 
