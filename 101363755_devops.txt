@@ -1,0 +1,3 @@
+# Jayden Nguyen - 101363755 - A product-minded Front-end Engineer
+
+COMP 3104 DevOps is an advanced course that teaches students the principles and tools of DevOps, focusing on automating software development and deployment processes. In this class, you'll learn how to automate various aspects of software creation and deployment, making the entire process smoother and more efficient. By the end of the course, you'll have the skills to improve teamwork between developers and operations teams, and you'll be able to build software systems more effectively in today's fast-paced tech world. ⭐️
